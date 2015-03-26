@@ -3,3 +3,8 @@
 ## Usage
 
 [Neonode README](https://github.com/sgarza/Neonode/blob/master/README.md)
+
+
+## CHANGELOG
+
+Read [CHANGELOG.md](CHANGELOG.md)
