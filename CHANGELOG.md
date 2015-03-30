@@ -1,3 +1,9 @@
+## 2015-03-30, Version 2.0.1
+
+ - Remove socket.io and async from dependencies
+ - Move express router initialization and router middleware before external middlewares
+
+
 ## 2015-03-26, Version 2.0.0
 
  - Remove webpack dependencies
