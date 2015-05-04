@@ -1,3 +1,11 @@
+## 2015-05-04, Version 2.1.0
+
+ - Added [Checkit](https://github.com/tgriesser/checkit) npm module for validations
+ - Added Argon Models (Argon.KnexModel)
+ - Added KnexStorage for Argon
+ - Added ValidationsSupport Neon Module to use with Argon.KnexModel
+
+
 ## 2015-03-30, Version 2.0.1
 
  - Remove socket.io and async from dependencies
