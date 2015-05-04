@@ -26,6 +26,7 @@
     "argonjs": "git://github.com/sgarza/argon#node-callback-convention",
     "bcrypt": "^0.8.1",
     "body-parser": "^1.12.0",
+    "checkit": "^0.5.1",
     "cobalt-log": "git://github.com/sgarza/cobalt",
     "colors": "^1.0.3",
     "compression-webpack-plugin": "^0.1.2",
