@@ -1,3 +1,7 @@
+## 2015-05-04, Version 2.1.1
+
+ - Move router middleware from Application.js to neonode middlewares
+
 ## 2015-05-04, Version 2.1.0
 
  - Added [Checkit](https://github.com/tgriesser/checkit) npm module for validations
