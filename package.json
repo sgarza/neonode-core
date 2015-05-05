@@ -54,6 +54,7 @@
     "req-flash": "0.0.2",
     "rimraf": "^2.3.2",
     "thulium": "^2.0.0",
-    "thulium-express": "^1.0.0"
+    "thulium-express": "^1.0.0",
+    "underscore.string": "^3.0.3"
   }
 }
