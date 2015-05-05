@@ -1,3 +1,14 @@
+## 2015-05-04, Version 2.1.2
+
+ - Fixed typos in ValidationSupport
+ - Clean _csfr in KnexStorage.preprocessors
+ - Add createdAt and updatedAt to KnexModel
+ - Add Preprocessor to convert from camelcase to underscored column names
+ - Add Processor to convert from underscored to camelcase column names
+ - Add underscore.string module
+ - Use constructor.validations in ValidationSupport
+
+
 ## 2015-05-04, Version 2.1.1
 
  - Move router middleware from Application.js to neonode middlewares
