@@ -1,3 +1,7 @@
+## 2015-05-06, Version 2.1.3
+
+ - Fixed a data validation issue in the KnexStorage processor
+
 ## 2015-05-04, Version 2.1.2
 
  - Fixed typos in ValidationSupport
