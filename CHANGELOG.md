@@ -1,3 +1,7 @@
+## 2015-05-06, Version 2.1.5
+
+ - Add setProperties to KnexModel
+
 ## 2015-05-06, Version 2.1.4
 
  - ValidationSupport now runs checkit with promises instead of validateSync()
