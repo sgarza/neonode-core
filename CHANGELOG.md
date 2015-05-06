@@ -1,3 +1,7 @@
+## 2015-05-06, Version 2.1.4
+
+ - ValidationSupport now runs checkit with promises instead of validateSync()
+
 ## 2015-05-06, Version 2.1.3
 
  - Fixed a data validation issue in the KnexStorage processor
