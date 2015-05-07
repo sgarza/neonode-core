@@ -1,3 +1,7 @@
+## 2015-05-07, Version 2.1.6
+
+ - Removed passport Local Strategy, passport strategies should be installed in the neonode project.
+
 ## 2015-05-06, Version 2.1.5
 
  - Add setProperties to KnexModel
