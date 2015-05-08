@@ -1,18 +1,27 @@
+## 2015-05-08, Version 2.1.7
+
+ - Fixed typo in KnexStorage
+
+
 ## 2015-05-07, Version 2.1.6
 
  - Removed passport Local Strategy, passport strategies should be installed in the neonode project.
+
 
 ## 2015-05-06, Version 2.1.5
 
  - Add setProperties to KnexModel
 
+
 ## 2015-05-06, Version 2.1.4
 
  - ValidationSupport now runs checkit with promises instead of validateSync()
 
+
 ## 2015-05-06, Version 2.1.3
 
  - Fixed a data validation issue in the KnexStorage processor
+
 
 ## 2015-05-04, Version 2.1.2
 
@@ -28,6 +37,7 @@
 ## 2015-05-04, Version 2.1.1
 
  - Move router middleware from Application.js to neonode middlewares
+
 
 ## 2015-05-04, Version 2.1.0
 
