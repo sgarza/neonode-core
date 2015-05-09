@@ -1,3 +1,7 @@
+## 2015-05-08, Version 2.1.9
+
+ - Check for CONFIG.database.logQueries inside the knex.on('query') handler
+
 ## 2015-05-08, Version 2.1.8
 
  - Added before/after Create and Update events to KnexModel
