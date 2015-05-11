@@ -1,3 +1,7 @@
+## 2015-05-08, Version 2.1.10
+
+ - Add beforeValidate and afterValidate events to ValidationSupport
+
 ## 2015-05-08, Version 2.1.9
 
  - Check for CONFIG.database.logQueries inside the knex.on('query') handler
