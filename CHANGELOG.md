@@ -1,3 +1,7 @@
+## 2015-05-08, Version 2.2.0
+
+ - require('neonode-core') now exports the instance of the Application, you have to run application._serverStart() manually from now on.
+
 ## 2015-05-08, Version 2.1.10
 
  - Add beforeValidate and afterValidate events to ValidationSupport
