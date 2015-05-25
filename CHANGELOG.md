@@ -1,3 +1,8 @@
+## 2015-05-25, Version 2.2.2
+
+ - Added customErrors.js
+   - added NotFoundError
+
 ## 2015-05-25, Version 2.2.1
 
  - Added caolan/async
