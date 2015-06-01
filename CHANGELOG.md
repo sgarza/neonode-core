@@ -1,3 +1,7 @@
+## 2015-05-25, Version 2.2.3
+
+ - Add model.id before dispatching afterSave
+
 ## 2015-05-25, Version 2.2.2
 
  - Added customErrors.js
