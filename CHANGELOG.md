@@ -1,10 +1,52 @@
+## 2015-05-25, Version 2.2.2
+
+ - Added customErrors.js
+   - added NotFoundError
+
+## 2015-05-25, Version 2.2.1
+
+ - Added caolan/async
+
+## 2015-05-08, Version 2.2.0
+
+ - require('neonode-core') now exports the instance of the Application, you have to run application._serverStart() manually from now on.
+
+## 2015-05-08, Version 2.1.10
+
+ - Add beforeValidate and afterValidate events to ValidationSupport
+
+## 2015-05-08, Version 2.1.9
+
+ - Check for CONFIG.database.logQueries inside the knex.on('query') handler
+
+## 2015-05-08, Version 2.1.8
+
+ - Added before/after Create and Update events to KnexModel
+
+## 2015-05-08, Version 2.1.7
+
+ - Fixed typo in KnexStorage
+
+
+## 2015-05-07, Version 2.1.6
+
+ - Removed passport Local Strategy, passport strategies should be installed in the neonode project.
+
+
+## 2015-05-06, Version 2.1.5
+
+ - Add setProperties to KnexModel
+
+
 ## 2015-05-06, Version 2.1.4
 
  - ValidationSupport now runs checkit with promises instead of validateSync()
 
+
 ## 2015-05-06, Version 2.1.3
 
  - Fixed a data validation issue in the KnexStorage processor
+
 
 ## 2015-05-04, Version 2.1.2
 
@@ -20,6 +62,7 @@
 ## 2015-05-04, Version 2.1.1
 
  - Move router middleware from Application.js to neonode middlewares
+
 
 ## 2015-05-04, Version 2.1.0
 
