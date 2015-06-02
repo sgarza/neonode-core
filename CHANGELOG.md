@@ -1,4 +1,8 @@
-## 2015-05-25, Version 2.2.3
+## 2015-06-02, Version 2.2.4
+
+ - Let models override createdAt and updatedAt in KnexModel
+
+## 2015-06-01, Version 2.2.3
 
  - Add model.id before dispatching afterSave
 
