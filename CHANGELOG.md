@@ -1,3 +1,7 @@
+## 2015-06-08, Version 2.2.5
+
+ - Properly merge KnexStorage Queries
+
 ## 2015-06-02, Version 2.2.4
 
  - Let models override createdAt and updatedAt in KnexModel
