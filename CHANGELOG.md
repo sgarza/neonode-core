@@ -1,3 +1,7 @@
+## 2015-06-16, Version 2.3.0
+
+ - Use the standard connection configuration for Knex
+
 ## 2015-06-08, Version 2.2.5
 
  - Properly merge KnexStorage Queries
