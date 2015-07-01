@@ -1,3 +1,9 @@
+## 2015-06-30, Version 2.3.2
+
+ - Move LithiumEngine to base package
+ - Remove lib/customErrors
+ - Load the lib/boot.js from the base package after bootstrap finishes
+
 ## 2015-06-30, Version 2.3.1
 
  - Load controllers from controllers directory and all its subdirectories
