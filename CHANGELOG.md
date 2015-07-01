@@ -1,3 +1,7 @@
+## 2015-06-30, Version 2.3.1
+
+ - Load controllers from controllers directory and all its subdirectories
+
 ## 2015-06-16, Version 2.3.0
 
  - Use the standard connection configuration for Knex
