@@ -1,4 +1,4 @@
-## 2015-07-24, Version 2.3.5
+## 2015-07-24, Version 2.3.6
 
  - Don't load Knex if CONFIG.database is undefined
 
