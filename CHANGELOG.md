@@ -1,3 +1,11 @@
+## 2015-09-29, Version 3.0.0
+ - Drop Argon models in favor of Krypton models (https://www.npmjs.com/package/krypton-orm)
+ - Remove unused dependencies
+ - Add a controller registry
+ - Remove routes from controllers
+ - Middlewares registry loader from config.js
+ - Proted route-mapper to Neon.js classes
+
 ## 2015-07-24, Version 2.3.6
 
  - Don't load Knex if CONFIG.database is undefined
