@@ -1,6 +1,6 @@
 {
   "name": "neonode-core",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "keywords": [
     "neonode"
   ],
@@ -39,6 +39,7 @@
     "nopt": "^3.0.1",
     "object-getprototypesof": "^1.0.1",
     "path": "^0.12.7",
+    "pluralize": "^1.2.1",
     "prompt": "^0.2.14",
     "rimraf": "^2.3.2",
     "thulium": "^2.0.0",
