@@ -1,3 +1,6 @@
+## 2015-10-09, Version 3.0.2
+ - Add beforeActions to controllers
+
 ## 2015-09-29, Version 3.0.0
  - Drop Argon models in favor of Krypton models (https://www.npmjs.com/package/krypton-orm)
  - Remove unused dependencies
