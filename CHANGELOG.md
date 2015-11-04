@@ -1,3 +1,6 @@
+## 2015-11-04, Version 3.0.3
+ - Add missing lodash dependencie to neonode.js
+
 ## 2015-10-09, Version 3.0.2
  - Add beforeActions to controllers
 
