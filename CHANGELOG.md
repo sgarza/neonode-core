@@ -1,5 +1,11 @@
+## 2015-11-19, Version 3.0.4
+- Update Model template attributes to be an array
+- Update krypton-orm
+- Use subdirectory name in controllers as controller namespace
+- Fix lodash-inflection mixin
+
 ## 2015-11-04, Version 3.0.3
- - Add missing lodash dependencie to neonode.js
+ - Add missing lodash dependencies to neonode.js
 
 ## 2015-10-09, Version 3.0.2
  - Add beforeActions to controllers
